@@ -30,9 +30,24 @@ Cakupan proyek yang dilakukan adalah sebagai berikut :
 Sumber Data : https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/main/students_performance/data.csv
 
 Setup Environment :
+#### Library Installation
 1. Pastikan python sudah terinstall dengan mengetik kode berikut pada Command Prompt
    ```
    python --version
    ```
+2. Passtikan pip sudah terinstall dengan mengetik kode berikut pada Command Prompt
+   ```
+   pip --version
+   ```
+3. Install library yang digunakan pada proyek ini dengan mengetik kode berikut
+   ```
+   pip install requirements.txt
+   ```
+#### Running Streamlit
+Untuk menjalankan prototype applikasi dapat mengetikkan kode berikut pada terminal
+```
+streamlit run prediction_app.py
+```
+
 
   
