@@ -31,8 +31,8 @@ Sumber Data : https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset
 
 Setup Environment :
 1. Pastikan python sudah terinstall dengan mengetik kode berikut pada Command Prompt
-   '''
+   ```
    python --version
-   '''
+   ```
 
   
