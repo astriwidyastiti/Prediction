@@ -24,4 +24,15 @@ Cakupan proyek yang dilakukan adalah sebagai berikut :
 4. Modeling & Evaluation
    - Modeling : algoritma yang digunakan pada tahap modeling adalah Decision Tree dan Random Forest
    - Evaluation : akurasi pada model Decision Tree adalah sebesar 69% dan Random Forest sebesar 85% dengan menggunakan evaluasi confussion matrix.
+
+### Persiapan
+
+Sumber Data : https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/main/students_performance/data.csv
+
+Setup Environment :
+1. Pastikan python sudah terinstall dengan mengetik kode berikut pada Command Prompt
+   '''
+   python --version
+   '''
+
   
