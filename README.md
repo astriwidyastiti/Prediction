@@ -117,8 +117,13 @@ Hasil akurasi yang didapatkan dari pelatihan model adalah sebagai berikut :
 
 Berdasarkan hasil training di antara 2 model machine learning, model RandomForest memiliki nilai akurasi lebih baik jika dibandingkan dengan model DecisionTree sehingga model RandomForest akan digunakan sebagai model pada applikasi yang akan mendeteksi secepat mungkin siswa yang mungkin akan melakukan dropout sehingga dapat diberi bimbingan khusus.
 
+## Rekomendasi Action Items
 
-
+Berdasarkan data yang sudah dianalisis insitut Jaya Jaya dapat melakukan langkah-langkah berikut untuk meminimalisir siswa yang akan dropout dari Institut Jaya Jaya:
+1. Pembayaran Bertahap: Mengimplementasikan opsi pembayaran biaya sekolah secara bertahap atau cicilan untuk meringankan beban keuangan siswa dan orang tua.
+2. Program Beasiswa Khusus: Membuat program beasiswa khusus untuk siswa yang orang tuanya memiliki pekerjaan tidak terampil.
+3. Perluasan Program Beasiswa: memperluas program beasiswa untuk mencakup lebih banyak siswa, terutama mereka yang berada dalam risiko dropout.Selain itu, buat kriteria beasiswa yang lebih fleksibel sehingga lebih banyak siswa dapat memenuhi syarat.
+4. Kurikulum Relevan: Pastikan kurikulum program studi relevan dengan kebutuhan industri dan menarik minat siswa untuk belajar.Meningkatkan kegiatan ekstrakurikuler dan pengembangan soft skills untuk mendukung keseimbangan antara akademik dan kegiatan non-akademik.
 
 
   
