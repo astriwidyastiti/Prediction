@@ -84,7 +84,9 @@ Setelah memasukkan data, maka data yang diinputkan dapat dilihat dengan melakuka
 Prediksi pada sistem machine learning menggunakan metode Random Forest. Sistem prediksi dapat diakses melalui link : https://prediction-status.streamlit.app/
 
 <div>
-![image] 
+   
+![image](https://github.com/astriwidyastiti/Prediction/assets/112534966/6e6bd60e-eb3e-4ff9-86ac-92d5f2af9f88)
+ 
 </div>
 
 
