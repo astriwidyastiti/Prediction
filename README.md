@@ -55,7 +55,21 @@ streamlit run prediction_app.py
 
 </div>
 
+Untuk mengakses dashboard di atas dapat melalui link berikut :
 https://lookerstudio.google.com/reporting/8915d4aa-44f5-42b6-b052-e859dcdea030
+
+Terdapat beberapa insight yang didapatkan berdasarkan dashboard yang dibuat, antara lain :
+1. Jumlah siswa yang dinyatakan dropout sebanyak 1.421 orang
+2. Nilai rata-rata siswa yang dinyatakan dropout adalah sebesar 124,96
+3. Sebanyak 50,7% siswa yang dinyatakan dropout adalah perempuan
+4. Nilai rata-rata GDP siswa yang dinyatakan dropout adalah -0.2, hal ini dapat menjadi asumsi jika siswa yang dinyatakan dropout memiliki nilai GDP yang kecil.
+5. Siswa yang dinyatakan dropout paling banyak pada usia 18-19 tahun
+6. Siswa yang melakukan metode aplikasi dengan kategori diatas 23 tahun paling banyak dinyatakan dropout
+7. Terdapat korelasi antara addmision grade dan previous qualification grade dengan jumlah kurikulum yang diambil oleh siswa pada semester 1 dan 2
+
+## Menjalankan Sistem Machine Learning
+
+
 
 
 
