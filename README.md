@@ -49,6 +49,13 @@ Untuk menjalankan prototype applikasi dapat mengetikkan kode berikut pada termin
 streamlit run prediction_app.py
 ```
 ## Business Dashboard
+<div align="center">
+   
+![image](https://github.com/astriwidyastiti/Prediction/assets/112534966/bd587e9a-8dac-4886-af7a-0c02e561ce89)
+
+</div>
+
+https://lookerstudio.google.com/reporting/8915d4aa-44f5-42b6-b052-e859dcdea030
 
 
 
