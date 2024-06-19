@@ -69,6 +69,24 @@ Terdapat beberapa insight yang didapatkan berdasarkan dashboard yang dibuat, ant
 
 ## Menjalankan Sistem Machine Learning
 
+Sistem Prediksi dapat dijalankan dengan memasukkan data-data pengguna yang diperlukan untuk mendeteksi seseorang yang mungkin akan melakukan dropout. Data-data yang akan diinputkan terdiri dari 4 sesi:
+1. Personal Information terdiri dari field : Gender, Marital Status, Nacionality, Father Occupation, Father Qualification, Mother Occupation, Mother Qualification
+2. Application Informatio terdiri dari field : DayTime Evening Attendance, Previous Qualification, International Student, Application Mode, Course, Admission Grade, Previous Qualification Grade, Displaced, Education Special Needs
+3. Financial Information terdiri dari field : Debtor, Scholarship Holder, Tuition Fees Up To Date
+4. Student Progress terdiri dari field : Curricular Units 1st Sem & 2nd Sem Enrolled, Curricular Units 1st & 2nd Sem Evaluations, Curricular Units 1st Sem & 2nd Approved, Curricular Units 1st & 2nd Sem Grade, Applciation Order, Age at Enrollment, Unemployment Rate, Inflation Rate, GDP
+
+Setelah memasukkan data, maka data yang diinputkan dapat dilihat dengan melakukan klik pada button View Data Raw. Untuk melakukan prediksi, pengguna dapat menekan button prediksi yang akan menghasilkan status :
+
+1. Graduate : Status lulus
+2. Enrolled : Status masih aktif menjalani akademik
+3. Dropout : Status yang keluar dari kegiatan akademik
+
+Prediksi pada sistem machine learning menggunakan metode Random Forest. Sistem prediksi dapat diakses melalui link : https://prediction-status.streamlit.app/
+
+<div>
+![image] 
+</div>
+
 
 
 
