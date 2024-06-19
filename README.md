@@ -89,6 +89,34 @@ Prediksi pada sistem machine learning menggunakan metode Random Forest. Sistem p
  
 </div>
 
+## Conclusion
+Setelah melakukan analisis dengan menggunakan model machine learning, dapat diambil beberapa faktor yang mempengaruhi seorang siswa melakukan dropout, antara lain :
+1. Finansial : siswa yang dinyatakan dropout kebanyakan merupakan siswa yang telat melakukan pembayaran biaya.
+2. Pekerjaan Orang Tua : Siswa yang melakukan dropout dipengaruhi oleh faktor pekerjaan orang tua baik ayah maupun ibu. Siswa yang melakukan dropout adalah siswa yang orang tua nya memiliki pekerjaan sebagai pekerja tidak terampil
+3. Pemegang Beasiswa : siswa yang tidak memegang beasiswa lebih banyak melakukan dropout
+4. Course : program studi dengan jumlah siswa terbanyak lebih banyak mengalami dropout
+
+Feature numerik yang digunakan untuk membangun model machine learning prediksi adalah sebagai berikut :
+
+1. Curricular_units_1st_sem_enrolled : Jumlah mata kuliah yang diambil siswa pada semester 1
+2. Curricular_units_1st_sem_evaluations : Jumlah mata kuliah siswa yang dievaulasi pada semester 1
+3. Curricular_units_1st_sem_approved : Jumlah mata kuliah siswa yang disetujui pada semester 1
+4. Curricular_units_1st_sem_grade : Hasil akademik untuk setiap mata kuliah yang diambil oleh siswa pada semester 1
+5. Curricular_units_2nd_sem_enrolled : Jumlah mata kuliah yang diambil siswa pada semester 2
+6. Curricular_units_2nd_sem_evaluations : Jumlah mata kuliah siswa yang dievaulasi pada semester 2
+7. Curricular_units_2nd_sem_approved : Jumlah mata kuliah siswa yang disetujui atau diakui pada semester 2
+8. Curricular_units_2nd_sem_grade : Hasil akademik untuk setiap mata kuliah yang diambil oleh siswa pada semester 2
+9. Admission_grade : Penilaian yang digunakan sebagai kriteria untuk diterima ke dalam sebuah program pendidikan
+10. Age_at_enrollment : Usia ketika siswa mendaftarkan diri
+11. Previous_qualification_grade : Hasil akademik siswa sebelum mendaftar pada institut
+12. GDP
+
+Hasil akurasi yang didapatkan dari pelatihan model adalah sebagai berikut :
+1. DecisionTree : 69%
+2. RandomForest : 85%
+
+Berdasarkan hasil training di antara 2 model machine learning, model RandomForest memiliki nilai akurasi lebih baik jika dibandingkan dengan model DecisionTree sehingga model RandomForest akan digunakan sebagai model pada applikasi yang akan mendeteksi secepat mungkin siswa yang mungkin akan melakukan dropout sehingga dapat diberi bimbingan khusus.
+
 
 
 
