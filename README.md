@@ -25,6 +25,10 @@ Cakupan proyek yang dilakukan adalah sebagai berikut :
    - Modeling : algoritma yang digunakan pada tahap modeling adalah Decision Tree dan Random Forest
    - Evaluation : akurasi pada model Decision Tree adalah sebesar 69% dan Random Forest sebesar 85% dengan menggunakan evaluasi confussion matrix.
 
+Tujuan analisis yang dilakukan adalah sebagai berikut :
+1. Mendeteksi Siswa Berisiko Dropout: Mengidentifikasi siswa yang memiliki kemungkinan tinggi untuk melakukan dropout sedini mungkin dan memberikan perhatian dan bimbingan khusus kepada siswa yang berisiko untuk membantu mereka menyelesaikan pendidikan mereka.
+2. Mengurangi Tingkat Dropout: Mengimplementasikan pendekatan yang tepat berdasarkan deteksi dini untuk mengurangi jumlah siswa yang dropout.
+
 ### Persiapan
 
 Sumber Data : https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/main/students_performance/data.csv
