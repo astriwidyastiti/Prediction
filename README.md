@@ -30,6 +30,8 @@ Tujuan analisis yang dilakukan adalah sebagai berikut :
 1. Mendeteksi Siswa Berisiko Dropout: Mengidentifikasi siswa yang memiliki kemungkinan tinggi untuk melakukan dropout sedini mungkin dan memberikan perhatian dan bimbingan khusus kepada siswa yang berisiko untuk membantu mereka menyelesaikan pendidikan mereka.
 2. Mengurangi Tingkat Dropout: Mengimplementasikan pendekatan yang tepat berdasarkan deteksi dini untuk mengurangi jumlah siswa yang dropout.
 
+Hasil akhir proyek ini adalah membuat sistem prediksi dengan menggunakan machine learning yang diharapkan dapat mendeteksi siswa yang berisiko dropout. Pada proyek ini model yang dilatih untuk menjalankan machine learning menggunakan 2 algortima yaitu algoritma Decision tree dan algoritma Random Forest. Sistem prediksi status dropout dibangun dengan model machine learning algortima Random Forest. Selain membuat sistem prediksi, pada proyek ini juga terdapat dashboard yang diharapkan dapat memberikan insight dari data sudah dipersiapkan. 
+
 ### Persiapan
 
 Sumber Data : https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/main/students_performance/data.csv
