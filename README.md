@@ -88,7 +88,7 @@ Setelah memasukkan data, maka data yang diinputkan dapat dilihat dengan melakuka
 2. Enrolled : Status masih aktif menjalani akademik
 3. Dropout : Status yang keluar dari kegiatan akademik
 
-Prediksi pada sistem machine learning menggunakan metode Random Forest. Sistem prediksi dapat diakses melalui link : https://prediction-status.streamlit.app/
+Prediksi pada sistem machine learning menggunakan metode Random Forest. Sistem prediksi dapat diakses melalui link : (https://prototype-prediksi-astriwidyastiti.streamlit.app/)
 
 <div>
    
